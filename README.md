@@ -1,5 +1,6 @@
 # CAPSTONE-2_New-York-City-TLC-Trip-Record
-![Uploading image.png…]()
+![Screenshot 2024-08-02 125715](https://github.com/user-attachments/assets/b310298c-6741-44f6-a24d-efbb816d8a4f)
+
 
 New York City Taxi and Limousine Commission (NYC TLC) merupakan lembaga pemerintah yang bertanggung jawab atas regulasi dan pengawasan industri taksi di Kota New York. Tanggung jawab utama lembaga ini meliputi perlindungan keselamatan publik dan hak-hak konsumen, penerbitan dan pengaturan lisensi, penetapan dan penegakan tarif taksi, serta pembatasan tarif sewa taksi.
 
